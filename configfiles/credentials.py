@@ -1,2 +1,2 @@
 username='postgres'
-password='Ruby@123'
+password='TestPassword'
